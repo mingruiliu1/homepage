@@ -1,5 +1,5 @@
-Mingrui Liu (Matthew)'s Resume
-======
+# *Mingrui Liu (Matthew)'s Resume*
+
 Hi, This is Mingrui Liu. I am now a senior student at Nanjing University of Posts and Telecommunications (NJUPT). 
 
 EDUCATION 

@@ -76,5 +76,5 @@ HONORS AND AWARDS
 ADDITIONAL
 ======
 * Standardized Tests: TOEFL 107 (R28/L28/S23/W28); GRE Quantitative 96% + Verbal 75%
-Programming: C (2yrs), MATLAB (2yrs), Python (1yr), SPSS (1yr), Lingo (1yr) 
+* Programming: C (2yrs), MATLAB (2yrs), Python (1yr), SPSS (1yr), Lingo (1yr) 
 * Hobbies: GO (Chinese WeiQi)

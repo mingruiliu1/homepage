@@ -28,8 +28,7 @@ PROJECTS
   * Calculated the evaluation index parameters upon our improvements on SAA.
   * Disclosed two invention patents.
 
-* Sub-Project: Digital Mammogram Image Enhancement based on Guided Image Filtering and Histogram  
-Equalization	05/2021 – 07/2021       
+* Sub-Project: Digital Mammogram Image Enhancement based on Guided Image Filtering and Histogram Equalization	05/2021 – 07/2021       
   Mentor: Assoc. Prof. Chunyu Yu (yucy@njupt.edu.cn)
 
   * Conducted literature review to learn about different enhancement methods for mammogram images; Studied different traditional methods related to histogram equalization, including HE, AHE, BBHE, and CLAHE.
@@ -44,7 +43,7 @@ Equalization	05/2021 – 07/2021
   * Performed a segmentation experiment to distinguish benign and malignant breast tumors using transfer learning in the PyTorch environment, GoogleNet network structure, and MIAS dataset.
   * Comprehended network structures, e.g., LeNet5 and AlexNet, as well as neural network concepts. 
 
-* Image Segmentation based on MATLAB and Deep Learning	10/2019 - 12/2019
+* Image Segmentation based on MATLAB and Deep Learning	10/2019 - 12/2019    
   Mentor: Prof. Zhengmeng Jin (jinzhm@njupt.edu.cn)
 
   * Read about the applications of MATLAB in image analysis and familiarized myself with the fundamental image manipulation in MATLAB, including 2D Plots, pie charts, and bar charts.

@@ -10,6 +10,12 @@ Nanjing University of Posts and Telecommunications (NJUPT)	09/2018 - 06/2022
 
 PROJECTS
 ======
+* Compensation for the dispersion and removal of mirror image in Optical Coherence Tomography (OCT)    
+  Mentor: Wenxin Zhang, Doctoral Candidate, NJUPT 10/2021 - 12/2021
+  * Learned some basic concepts of Optical Coherence Tomography (OCT) and its applications.
+  * Studied the Conjugate transformation for dispersion compensation in OCT imaging.
+  * Designed a solution to compensate the dispersion and remove the mirror image and carried out its coding in MATLAB.
+
 * CNN-based Diagnosis of COVID-19: A Comparative Study on Different Image Preprocessing Methods    
   Mentor: Munib Wober, Visiting Lecturer, Harvard, Cambridge	05/2021 - 08/2021   
 

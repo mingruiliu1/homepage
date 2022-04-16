@@ -1,6 +1,6 @@
 # *Mingrui Liu (Matthew)'s Resume*
 
-Hi, This is Mingrui Liu. I am now a senior student at Nanjing University of Posts and Telecommunications (NJUPT). 
+Hi, This is Mingrui Liu. I am now a senior student at Nanjing University of Posts and Telecommunications (NJUPT). I am going to study at UIUC ECE PhD program. 
 
 EDUCATION 
 ======
@@ -60,9 +60,9 @@ PROJECTS
 
 PUBLICATIONS
 ======
-* Liu, M., Li, H., Sun N., Yu, C., Digital Mammogram Image Enhancement based on Guided Image Filtering and Histogram Equalization. [Accepted by 2021 China Biomedical Engineering Conference & Medical Innovation Summit. Expected to give an oral presentation];
+* Liu, M., Li, H., Sun N., Yu, C., Digital Mammogram Image Enhancement based on Guided Image Filtering and Histogram Equalization. [Accepted by 2021 China Biomedical Engineering Conference & Medical Innovation Summit. oral presentation];
 * Liu, M., Cui, Y., Ding, J., Liu, X., CNN-based Diagnosis of COVID-19: A Comparative Study on Different Image Preprocessing Methods. [Accepted by 2021 2nd International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT 2021). Expected to be published on IEEE CPS];
-* Liu, M., Li, H., Yu, C., Digital Breast Tomosynthesis Image Reconstruction based on Weight Adjust Second Order Blind Identify. [In modification. Expected to be submitted to Review of Scientific Instruments].
+* Liu, M., Li, H., Yu, C., Digital Breast Tomosynthesis Image Reconstruction based on Weight Adjust Second Order Blind Identify. [submitted to Biomedical Signal Processing and Control].
 
 PATENTS
 ======
